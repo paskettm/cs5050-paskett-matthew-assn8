@@ -1,0 +1,84 @@
+size:    	2^0
+n:       	0
+time(ns):	0
+
+size:    	2^1
+n:       	0
+time(ns):	0
+
+size:    	2^2
+n:       	0
+time(ns):	0
+
+size:    	2^3
+n:       	0
+time(ns):	0
+
+size:    	2^4
+n:       	0
+time(ns):	999800
+
+size:    	2^5
+n:       	0
+time(ns):	0
+
+size:    	2^6
+n:       	0
+time(ns):	0
+
+size:    	2^7
+n:       	0
+time(ns):	999500
+
+size:    	2^8
+n:       	0
+time(ns):	3001200
+
+size:    	2^9
+n:       	999900
+time(ns):	3998800
+
+size:    	2^10
+n:       	0
+time(ns):	11002600
+
+size:    	2^11
+n:       	0
+time(ns):	32002700
+
+size:    	2^12
+n:       	1001200
+time(ns):	58003500
+
+size:    	2^13
+n:       	982500
+time(ns):	161030000
+
+size:    	2^14
+n:       	2000000
+time(ns):	330024900
+
+size:    	2^15
+n:       	2999100
+time(ns):	525131400
+
+size:    	2^16
+n:       	7000800
+time(ns):	1332205700
+
+size:    	2^17
+n:       	32002500
+time(ns):	2714209700
+
+size:    	2^18
+n:       	60004000
+time(ns):	5748672400
+
+size:    	2^19
+n:       	106009500
+time(ns):	11755573900
+
+size:    	2^20
+n:       	188015500
+time(ns):	26214384700
+
